@@ -1,4 +1,4 @@
-# Pydata
+# Pydata - PyLadies class - Autumn 2021
 1. Představení, Jupyter notebook, základy pandas  23. září 2021
 2. Datové typy a základy vizualizace v pandas 30. ZÁŘÍ 2021
 3. Explorativní datová analýza a statistika jedné proměnné 7. ŘÍJNA 2021
