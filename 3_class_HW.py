@@ -4,7 +4,6 @@
 3. Zjisti, ve které z těchto stanic byl nejteplejší den (den s nejvyšší maximální teplotou) v roce 2010 a který den to byl.
 """
 
-
 # Načtení dat
 import pandas as pd
 import numpy as np
