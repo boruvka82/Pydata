@@ -4,7 +4,7 @@
 2. Vytvoř vhodný graf, který velkou poloosu elipsy a oběžnou dobu spojuje
 3. Přidej do načtené tabulky countries sloupce women_overweight, men_overweight, kde nadváhou zástupců příslušného pohlaví myslíme průměrné bmi > 25.
 4. Zjisti, v jakých zemích, které NEpatří do low_income group, mají průměrně méně než 3000 kalorií na den.
-5. Napiš kód, který vytvoří graf bmi mužů a bmi žen v zemích EU. Zkus si pohrát i s parametry - nastav figsize, barvu...
+5. Napiš kód, který vytvoří graf bmi mužů a bmi žen v zemích EU. Zkus si pohrát i s parametry - nastav figsize, barvu, apod.
 
 """
 
